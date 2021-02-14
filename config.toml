@@ -1,4 +1,4 @@
-baseURL = "https://k-yamauchi.github.io/quickstart/"
+baseURL = "https://k-yamauchi.github.io/quickstart"
 languageCode = "ja"
 title = "うずらの日記"
 contentDir = "post"
