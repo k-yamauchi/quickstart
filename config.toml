@@ -3,5 +3,6 @@ languageCode = "ja"
 title = "うずらの日記"
 contentDir = "post"
 disableKinds = ["RSS", "sitemap"]
+theme = "ananke"
 [taxonomies]
 tag = "tags"
